@@ -24,8 +24,14 @@ xml_content = """<?xml version="1.0" encoding="UTF-8"?>
 """.format(base_url)
 
 # prevent duplication
+"""
+  Elaboration of following code
+
+  tupleSet = {tuple(d.items()) for d in l}
+  dictList = [dict(t) for t in tupleSet]
+"""
 image_info_list = [dict(t)
-                   for t in {tuple(d.items()) for d in image_info_list}]  # TODO: analyse this line
+                   for t in {tuple(d.items()) for d in image_info_list}]
 
 for image_info in image_info_list:
     xml_content += """
