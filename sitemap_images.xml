@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://mycertify.com/</loc>
+
+
+          <image:image>
+            <image:loc>https://mycertify.com/assets/images/min/logo.png</image:loc>
+            <image:caption>MyCertify - Online Food Handler Certification</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/images/logo.png</image:loc>
+            <image:caption>My Certify - TABC and Food Handlers Certification</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/files/images/20170121045232467451361.jpg</image:loc>
+            <image:caption></image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/files/images/slide34.jpg</image:loc>
+            <image:caption></image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/images/MyCertify-ANSI-Accredited.jpg</image:loc>
+            <image:caption>MyCertify - ANSI Accredited</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/images/ANSI_Accredited_myCertify_1214.png</image:loc>
+            <image:caption>MyCertify - ANSI Accredited</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/blog/wp-content/uploads/2017/12/logo.png</image:loc>
+            <image:caption>Logo</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/files/images/ok.png</image:loc>
+            <image:caption>ok</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/files/images/FB_IMG_1565516626465.jpg</image:loc>
+            <image:caption>foodhandler certify</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/assets/images/buynowCart.png</image:loc>
+            <image:caption>Buy this course now</image:caption>
+          </image:image>
+        
+          <image:image>
+            <image:loc>https://mycertify.com/blog/wp-content/uploads/2017/12/national-foodhandler-certification.jpg</image:loc>
+            <image:caption></image:caption>
+          </image:image>
+        
+    </url> 
+</urlset> 
