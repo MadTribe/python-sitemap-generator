@@ -9,5 +9,6 @@ pip3 install -r ./requirements.txt
 ```
 
 ## Run 
-
-python3 ./image_sitemap.py
+```bash
+python3 ./image_sitemap.py -u <url> -o <output-file>
+```
